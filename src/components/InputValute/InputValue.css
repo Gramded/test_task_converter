@@ -1,0 +1,9 @@
+.input-for-money {
+
+}
+
+.input-for-money-r {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
